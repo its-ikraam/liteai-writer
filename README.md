@@ -10,9 +10,9 @@ LiteAI Writer is a lightweight, single-instance PHP application designed as a si
 * **Simple Generation:** Select a prompt, enter your context/input, and generate text.
 * **Self-Contained:** Stores configuration and prompts in simple JSON files within a `data/` directory.
 
-## Screenshot (Optional - Add one later)
+## Screenshot 
 
-[Insert a screenshot of the UI here]
+![a1d33946c031228e2f801cb2d08a0562.png](https://i.miji.bid/2025/06/07/a1d33946c031228e2f801cb2d08a0562.png)
 
 ### Usage
 
