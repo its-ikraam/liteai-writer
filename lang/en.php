@@ -40,7 +40,7 @@ return [
     'no_prompts_text' => 'Your spellbook is empty! Create your first spell above.',
     
     'loading_text' => 'Thinking...',
-    'footer_text' => 'Made with 💖 by a happy coder. Inspired by DartNode.',
+    'footer_text' => 'Made with 💖 by a happy coder..',
 
     'lang_switch_label' => 'Language:',
 ];
